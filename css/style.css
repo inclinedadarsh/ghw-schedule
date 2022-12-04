@@ -22,6 +22,9 @@ body {
 .link {
   color: #fcee90;
 }
+.link:hover {
+  text-shadow: 0 0 13px #fcee90;
+}
 
 .header {
   width: 50%;

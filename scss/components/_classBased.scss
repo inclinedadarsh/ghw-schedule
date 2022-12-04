@@ -22,4 +22,8 @@
 
   .link {
     color: $link-yellow;
+
+    &:hover {
+      text-shadow: 0 0 13px $link-yellow;
+    }
   }
